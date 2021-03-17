@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="200mm"
+   viewBox="0 0 210 200"
    version="1.1"
    id="svg104"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   sodipodi:docname="m2.svg">
+   sodipodi:docname="Raumgrößen_m2.svg">
   <defs
      id="defs98" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1536"
-     inkscape:window-height="801"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -52,26 +52,26 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#696969;stroke-width:0.264583"
+       style="fill:#696969;stroke-width:0.288992"
        id="rect142"
-       width="187.47618"
-       height="187.47618"
-       x="13.607142"
-       y="58.283932"
-       rx="0.64303803"
-       ry="20.148523" />
+       width="210.46138"
+       height="199.23605"
+       x="0.32496622"
+       y="0.76179808"
+       rx="0.72187656"
+       ry="21.412384" />
     <rect
-       style="fill:#808080;stroke-width:0.190823"
+       style="fill:#808080;stroke-width:0.208427"
        id="rect142-1"
-       width="97.517845"
-       height="187.47618"
-       x="103.56548"
-       y="58.283932"
-       rx="0.33448347"
-       ry="20.148523" />
+       width="109.47384"
+       height="199.23605"
+       x="101.31249"
+       y="0.76179808"
+       rx="0.37549222"
+       ry="21.412384" />
     <g
        id="g124"
-       transform="translate(-50.875595,-14.665479)"
+       transform="matrix(1.0798346,0,0,1.0798346,-63.997942,-79.593631)"
        style="fill:#fffafa">
       <path
          style="fill:#fffafa;fill-opacity:1;stroke-width:0.352778"
