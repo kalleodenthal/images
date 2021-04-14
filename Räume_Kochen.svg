@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="Räume_Kochen.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
+   id="metadata57"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs55" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1137"
+   id="namedview53"
+   showgrid="false"
+   inkscape:zoom="0.50754247"
+   inkscape:cx="153.18516"
+   inkscape:cy="81.193831"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<circle
+   style="fill:#D35933;"
+   cx="256"
+   cy="256"
+   r="256"
+   id="circle2" />
+<path
+   style="fill:#b54324"
+   d="m 506.22758,309.49895 -144.00064,-155.80862 -4.32598,28.90891 v 21.371 29.36 l 15.6,15.6 -23.652,69.065 L 397.683,342.232 460.98579,301.43515 311.03131,163.51901 281.228,276.441 l -72.032,-66.314 -9.049,14.35 63.467,58.677 -181.981,58.64 170.153,170.153 c 1.403,0.022 2.805,0.053 4.211,0.053 196.97929,-9.21659 248.51549,-181.3851 250.23058,-202.50105 z"
+   id="path4"
+   sodipodi:nodetypes="cccccccccccccccccc" />
+
+<rect
+   x="353.19516"
+   y="185.07899"
+   style="fill:#ffd700;stroke-width:0.505373"
+   width="16.00889"
+   height="156.72"
+   id="rect8" />
+<path
+   style="fill:#ffffff"
+   d="m 100.107,333.244 c 0,-58.227 47.202,-105.429 105.429,-105.429 58.227,0 105.429,47.202 105.429,105.429 z"
+   id="path10" />
+<g
+   id="g16">
+	<path
+   style="fill:#D0D1D3;"
+   d="M205.536,227.816c-0.034,0-0.069,0.003-0.103,0.003v105.425h105.532   C310.965,275.018,263.763,227.816,205.536,227.816z"
+   id="path12" />
+	<circle
+   style="fill:#D0D1D3;"
+   cx="205.541"
+   cy="217.85"
+   r="8.549"
+   id="circle14" />
+</g>
+<path
+   style="fill:#A6A8AA;"
+   d="M205.536,209.294c-0.036,0-0.069,0.01-0.103,0.01v17.075c0.036,0,0.069,0.01,0.103,0.01  c4.722,0,8.549-3.827,8.549-8.549S210.258,209.294,205.536,209.294z"
+   id="path18" />
+<path
+   style="fill:#273B7A;"
+   d="M416.323,345.593H88.781c-4.76,0-8.62-3.86-8.62-8.62v-1.757c0-4.76,3.86-8.62,8.62-8.62h327.542  c4.76,0,8.62,3.86,8.62,8.62v1.757C424.943,341.733,421.083,345.593,416.323,345.593z"
+   id="path20" />
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g36">
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+<g
+   id="g42">
+</g>
+<g
+   id="g44">
+</g>
+<g
+   id="g46">
+</g>
+<g
+   id="g48">
+</g>
+<g
+   id="g50">
+</g>
+<rect
+   style="fill:#fffaf0;stroke-width:0.803593"
+   id="rect59"
+   width="212.46259"
+   height="141.00934"
+   x="97.837616"
+   y="186.23466" /><rect
+   style="fill:#fffaf0;stroke-width:0.255564"
+   id="rect59-3"
+   width="212.46259"
+   height="14.261857"
+   x="98.56871"
+   y="163.51901" /><rect
+   style="fill:#fffaf0;stroke-width:0.088006"
+   id="rect59-5"
+   width="18.808165"
+   height="19.104576"
+   x="194.00275"
+   y="145.80763" /><ellipse
+   style="fill:#ffd700"
+   id="path90"
+   cx="360.48981"
+   cy="182.50883"
+   rx="21.246258"
+   ry="28.560545" /><rect
+   style="fill:#d3d3d3;stroke-width:0.569157"
+   id="rect59-1"
+   width="106.57959"
+   height="141.00934"
+   x="203.7206"
+   y="186.23468" /><rect
+   style="fill:#d3d3d3;stroke-width:0.168762"
+   id="rect59-3-9"
+   width="92.647621"
+   height="14.261857"
+   x="218.38368"
+   y="163.51901" /><rect
+   style="fill:#dcdcdc;stroke-width:0.0454712"
+   id="rect59-5-9"
+   width="5.3115659"
+   height="18.059679"
+   x="207.49934"
+   y="145.80763" /></svg>
