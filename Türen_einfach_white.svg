@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="200mm"
+   viewBox="0 0 210 200"
+   version="1.1"
+   id="svg104"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Türen_einfach_white.svg">
+  <defs
+     id="defs98">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath126">
+      <rect
+         style="fill:#008080;stroke-width:0.264583"
+         id="rect128"
+         width="225.57547"
+         height="212.74654"
+         x="-8.5526247"
+         y="-5.3453903" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="230.25722"
+     inkscape:cy="372.39092"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-others="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="true" />
+  <metadata
+     id="metadata101">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect42"
+       style="fill:#ffffff;stroke-width:0.28089"
+       d="M 37.680888,1.6743164 V 198.84832 H 172.26633 V 1.6743164 Z M 49.589721,13.89786 H 157.56645 V 189.22669 H 49.589721 Z" />
+    <path
+       id="rect108"
+       style="fill:#ffffff;stroke-width:0.391129"
+       d="M 153.58673,15.787741 71.292279,37.056225 71.835792,171.20921 153.58673,187.56942 Z M 92.642022,88.179248 v 31.427192 l -18.244635,-2.31337 v -2.88644 l 14.442169,1.72605 v -23.701 L 74.397387,94.589528 V 91.070964 Z M 79.11412,101.1606 a 2.3085781,2.317688 0 0 1 2.308488,2.31759 2.3085781,2.317688 0 0 1 -2.308488,2.31812 2.3085781,2.317688 0 0 1 -2.308478,-2.31812 2.3085781,2.317688 0 0 1 2.308478,-2.31759 z" />
+  </g>
+</svg>
