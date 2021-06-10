@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="70"
+   height="70"
+   viewBox="0 0 18.520833 18.520834"
+   version="1.1"
+   id="svg66"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="Fenster_Dachflächen.svg">
+  <defs
+     id="defs60" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#34b591"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="65.502821"
+     inkscape:cy="31.574149"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:snap-nodes="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect74"
+       style="fill:#ffffff;stroke-width:0.252428"
+       d="m 2.9733733,15.228992 12.4738597,-10e-7 2.839739,2.952384 H 0.26726934 Z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.429789"
+       id="rect159-3"
+       width="0.21429048"
+       height="5.5799341"
+       x="2.970964"
+       y="9.7188721" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.428862"
+       id="rect159-3-1"
+       width="0.21429048"
+       height="5.5558829"
+       x="15.275814"
+       y="9.7183952" />
+    <path
+       id="rect159-3-5-3"
+       style="fill:#ffffff;stroke-width:0.534483"
+       d="M 15.35123,9.852964 15.264,9.767584 17.924542,1.930332 18.101376,2.104314 15.471487,9.852964 Z" />
+    <g
+       id="g187"
+       transform="translate(53.672619,28.726191)" />
+    <path
+       id="rect159-3-5-3-9"
+       style="fill:#ffffff;stroke-width:0.534483"
+       d="m 3.1021184,9.852964 0.08723,-0.08538 -2.660542,-7.8372526 -0.176834,0.173982 2.629889,7.7486506 z" />
+    <path
+       id="rect282"
+       style="fill:#ffffff;stroke-width:0.9157"
+       d="M 19.464844 10.507812 L 25.892578 34.615234 L 34.771484 34.615234 L 34.849609 34.615234 L 43.728516 34.615234 L 50.15625 10.507812 L 34.849609 10.507812 L 34.771484 10.507812 L 19.464844 10.507812 z M 21.96875 12.472656 L 21.970703 12.472656 L 21.974609 12.488281 L 29.050781 31.072266 L 41.074219 31.072266 L 48.150391 12.488281 L 48.154297 12.472656 L 48.15625 12.472656 L 48.150391 12.488281 L 42.978516 33.070312 L 42.589844 33.068359 L 42.589844 33.080078 L 28.162109 33.080078 L 28.162109 33.064453 L 27.148438 33.070312 L 21.974609 12.488281 L 21.96875 12.472656 z M 36.261719 28.988281 L 37.316406 28.988281 L 37.316406 29.609375 L 37.316406 29.685547 L 37.316406 30.328125 L 32.316406 30.328125 L 32.316406 29.609375 L 36.261719 29.609375 L 36.261719 28.988281 z "
+       transform="scale(0.26458333)" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.265145"
+       id="rect285"
+       width="17.745556"
+       height="0.28348213"
+       x="0.35029954"
+       y="1.8662573" />
+    <rect
+       style="fill:#66cdaa;fill-opacity:0;stroke-width:0.264583"
+       id="rect1136"
+       width="1.500093"
+       height="0.57877606"
+       x="7.6067705"
+       y="7.8666296" />
+  </g>
+</svg>
