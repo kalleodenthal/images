@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -8,17 +15,10 @@
    style="enable-background:new 0 0 512 512;"
    xml:space="preserve"
    sodipodi:docname="Räume_Eingang.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
    id="metadata51"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs49" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -29,25 +29,24 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1129"
+   inkscape:window-height="1001"
    id="namedview47"
    showgrid="false"
    inkscape:zoom="1.4355469"
    inkscape:cx="256"
    inkscape:cy="256"
-   inkscape:window-x="1912"
-   inkscape:window-y="-8"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1"
-   inkscape:pagecheckerboard="0" />
+   inkscape:current-layer="Layer_1" />
 <circle
-   style="fill:#c0c0c0"
+   style="fill:#ffe4e1"
    cx="256"
    cy="256"
    r="256"
    id="circle2" />
 <path
-   style="fill:#696969"
+   style="fill:#f08080"
    d="M264.283,511.853C390.07,507.854,492.94,413.12,509.618,290.94L339.022,120.344l-19.196,31.975  l-14.838-14.838l-67.25,139.75l-94.463-96.878l-6.773,29.274l-8.511-8.511l-27.76,45.575l95.11,95.11l25.793-20.335l-46.097,101.142  L264.283,511.853z"
    id="path4" />
 <path

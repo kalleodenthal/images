@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -8,17 +15,10 @@
    style="enable-background:new 0 0 512 512;"
    xml:space="preserve"
    sodipodi:docname="Räume_Flur.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"><metadata
    id="metadata51"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs49" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -29,27 +29,26 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1129"
+   inkscape:window-height="1137"
    id="namedview47"
    showgrid="false"
-   inkscape:zoom="0.50754248"
-   inkscape:cx="475.82224"
-   inkscape:cy="-32.509594"
+   inkscape:zoom="2.0301699"
+   inkscape:cx="124.36499"
+   inkscape:cy="270.13732"
    inkscape:window-x="1912"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1"
    inkscape:document-rotation="0"
-   inkscape:object-paths="false"
-   inkscape:pagecheckerboard="0" />
+   inkscape:object-paths="false" />
 <circle
-   style="fill:#c0c0c0"
+   style="fill:#ffe4e1"
    cx="256"
    cy="256"
    r="256"
    id="circle2" />
 <path
-   style="fill:#696969"
+   style="fill:#f08080"
    d="M 264.283,511.853 C 390.07,507.854 492.94,413.12 509.618,290.94 l -170.596,-170.596 -19.196,31.975 -14.838,-14.838 -67.25,139.75 -23.40994,-69.01405 -8.1662,52.95835 29.80193,-16.87019 -8.95184,69.95596 -31.67095,27.53993 25.793,-20.335 -46.097,101.142 z"
    id="path4"
    sodipodi:nodetypes="cccccccccccccc" />
@@ -107,28 +106,28 @@
    id="g44">
 </g>
 <path
-   style="fill:#228b22;stroke-width:0.941505"
+   style="fill:#cd853f;stroke-width:0.941505"
    d="m 199.22662,409.48817 h 113.03924 c 6.31801,0 11.44059,-5.75075 11.44059,-12.84353 V 142.5841 c 0,-7.09279 -5.12258,-12.84531 -11.44059,-12.84531 H 199.22662 c -6.31801,0 -11.44059,5.75075 -11.44059,12.84531 v 254.06054 c 0,7.09278 5.12258,12.84353 11.44059,12.84353 z"
    id="path6-9" /><rect
-   style="fill:#228b22;stroke-width:0.999998"
+   style="fill:#cd853f;stroke-width:0.999998"
    id="rect70"
    width="55.72789"
    height="61.126534"
    x="226.04881"
    y="113.7822" /><rect
-   style="fill:#228b22;stroke-width:0.999998"
+   style="fill:#cd853f;stroke-width:0.999998"
    id="rect70-5"
-   width="55.728001"
+   width="55.72789"
    height="61.126534"
    x="285.66452"
    y="235.84961" /><rect
-   style="fill:#228b22;stroke-width:0.999998"
+   style="fill:#cd853f;stroke-width:0.999998"
    id="rect70-0"
    width="55.72789"
    height="61.126534"
    x="170.68159"
    y="239.37944" /><rect
-   style="fill:#228b22;stroke-width:0.999998"
+   style="fill:#cd853f;stroke-width:0.999998"
    id="rect70-0-6"
    width="55.72789"
    height="61.126534"
