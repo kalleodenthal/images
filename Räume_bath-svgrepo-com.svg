@@ -1,51 +1,126 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<circle style="fill:#386895;" cx="256" cy="256" r="256"/>
-<g>
-	<path style="fill:#273B7A;" d="M278.761,510.981c105.438-9.292,192.515-82.491,222.258-180.629L426.667,256l-6.515,10.724
-		l-0.667-0.667L114.29,346.512L278.761,510.981z"/>
-	<polygon style="fill:#273B7A;" points="170.667,181.22 133.997,169.051 116.221,184.237 116.221,279.809 266.238,276.792 	"/>
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="Räume_bath-svgrepo-com.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs55" /><sodipodi:namedview
+   id="namedview53"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="0.36767578"
+   inkscape:cx="198.54449"
+   inkscape:cy="-27.197875"
+   inkscape:window-width="1003"
+   inkscape:window-height="1120"
+   inkscape:window-x="2828"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<circle
+   style="fill:#71e2ef;fill-opacity:1"
+   cx="256"
+   cy="256"
+   r="256"
+   id="circle2" />
+<g
+   id="g8">
+	<path
+   style="fill:#38c6d9;fill-opacity:1"
+   d="M278.761,510.981c105.438-9.292,192.515-82.491,222.258-180.629L426.667,256l-6.515,10.724   l-0.667-0.667L114.29,346.512L278.761,510.981z"
+   id="path4" />
+	<polygon
+   style="fill:#38c6d9;fill-opacity:1"
+   points="170.667,181.22 133.997,169.051 116.221,184.237 116.221,279.809 266.238,276.792  "
+   id="polygon6" />
 </g>
-<path style="fill:#FFC61B;" d="M113.778,261.172c-2.857,0-5.172-2.315-5.172-5.172v-56.889c0-18.535,15.081-33.616,33.616-33.616
-	s33.616,15.081,33.616,33.616c0,2.857-2.315,5.172-5.172,5.172s-5.172-2.315-5.172-5.172c0-12.833-10.44-23.273-23.273-23.273
-	c-12.833,0-23.273,10.44-23.273,23.273V256C118.949,258.857,116.634,261.172,113.778,261.172z"/>
-<g>
-	<circle style="fill:#FFFFFF;" cx="170.667" cy="373.226" r="14.222"/>
-	<circle style="fill:#FFFFFF;" cx="341.333" cy="373.226" r="14.222"/>
+<path
+   style="fill:#ffa500"
+   d="M113.778,261.172c-2.857,0-5.172-2.315-5.172-5.172v-56.889c0-18.535,15.081-33.616,33.616-33.616  s33.616,15.081,33.616,33.616c0,2.857-2.315,5.172-5.172,5.172s-5.172-2.315-5.172-5.172c0-12.833-10.44-23.273-23.273-23.273  c-12.833,0-23.273,10.44-23.273,23.273V256C118.949,258.857,116.634,261.172,113.778,261.172z"
+   id="path10" />
+<g
+   id="g16"
+   style="fill:#696969">
+	<circle
+   style="fill:#696969"
+   cx="170.667"
+   cy="373.226"
+   r="14.222"
+   id="circle12" />
+	<circle
+   style="fill:#696969"
+   cx="341.333"
+   cy="373.226"
+   r="14.222"
+   id="circle14" />
 </g>
-<path style="fill:#71E2EF;" d="M337.741,369.778H174.258c-49.112,0-88.924-39.814-88.924-88.924V256h341.333v24.854
-	C426.667,329.964,386.853,369.778,337.741,369.778z"/>
-<path style="fill:#38C6D9;" d="M255.426,256v113.778h82.316c49.112,0,88.924-39.814,88.924-88.924V256H255.426z"/>
-<g>
+<path
+   style="fill:#c0c0c0"
+   d="M337.741,369.778H174.258c-49.112,0-88.924-39.814-88.924-88.924V256h341.333v24.854  C426.667,329.964,386.853,369.778,337.741,369.778z"
+   id="path18" />
+<path
+   style="fill:#696969"
+   d="M255.426,256v113.778h82.316c49.112,0,88.924-39.814,88.924-88.924V256H255.426z"
+   id="path20" />
+<g
+   id="g22">
 </g>
-<g>
+<g
+   id="g24">
 </g>
-<g>
+<g
+   id="g26">
 </g>
-<g>
+<g
+   id="g28">
 </g>
-<g>
+<g
+   id="g30">
 </g>
-<g>
+<g
+   id="g32">
 </g>
-<g>
+<g
+   id="g34">
 </g>
-<g>
+<g
+   id="g36">
 </g>
-<g>
+<g
+   id="g38">
 </g>
-<g>
+<g
+   id="g40">
 </g>
-<g>
+<g
+   id="g42">
 </g>
-<g>
+<g
+   id="g44">
 </g>
-<g>
+<g
+   id="g46">
 </g>
-<g>
+<g
+   id="g48">
 </g>
-<g>
+<g
+   id="g50">
 </g>
 </svg>
