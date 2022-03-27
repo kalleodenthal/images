@@ -28,26 +28,26 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1129"
+   inkscape:window-width="1536"
+   inkscape:window-height="841"
    id="namedview47"
    showgrid="false"
    inkscape:zoom="1.4355469"
    inkscape:cx="256"
    inkscape:cy="256"
-   inkscape:window-x="1912"
+   inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1"
    inkscape:pagecheckerboard="0" />
 <circle
-   style="fill:#c0c0c0"
+   style="fill:#660033;fill-opacity:1"
    cx="256"
    cy="256"
    r="256"
    id="circle2" />
 <path
-   style="fill:#696969"
+   style="fill:#40001f;fill-opacity:1"
    d="M264.283,511.853C390.07,507.854,492.94,413.12,509.618,290.94L339.022,120.344l-19.196,31.975  l-14.838-14.838l-67.25,139.75l-94.463-96.878l-6.773,29.274l-8.511-8.511l-27.76,45.575l95.11,95.11l25.793-20.335l-46.097,101.142  L264.283,511.853z"
    id="path4" />
 <path
