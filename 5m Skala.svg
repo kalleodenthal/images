@@ -17,7 +17,7 @@
      id="defs181" />
   <sodipodi:namedview
      id="namedview179"
-     pagecolor="#ffffff"
+     pagecolor="#316faf"
      bordercolor="#999999"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -26,7 +26,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="8.1522106"
-     inkscape:cx="62.98905"
+     inkscape:cx="54.647754"
      inkscape:cy="24.042558"
      inkscape:window-width="1920"
      inkscape:window-height="1129"
@@ -40,7 +40,7 @@
      id="g183"
      transform="translate(0.36799838,13.615939)">
     <path
-       style="fill:#000000;stroke-width:0.290909"
+       style="fill:#ffffff;stroke-width:0.290909;fill-opacity:1"
        d="M -0.36799838,-9.5432123 V -13.615939 H 63.341092 127.05018 v 4.0727267 4.0727272 H 63.341092 -0.36799838 Z m 50.90909038,0 V -12.161394 H 37.886547 25.232002 v 2.6181817 2.6181818 h 12.654545 12.654545 z m 50.327268,0 V -12.161394 H 88.359273 75.850183 v 2.6181817 2.6181818 h 12.50909 12.509087 z"
        id="path187" />
   </g>
